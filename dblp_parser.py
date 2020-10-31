@@ -87,7 +87,12 @@ def extract_feature(elem, features, include_key=False):
         if sub.tag == 'title':
             text = re.sub("<.*?>", "", etree.tostring(sub).decode('utf-8')) if sub.text is None else sub.text
         elif sub.tag == 'pages':
-            text = count_pages(sub.text)
+            if (sub.text ==None):
+                pass
+                text = None
+                # print(attribs['key'])
+            else:
+                text = count_pages(sub.text)
         else:
             text = sub.text
         if text is not None and len(text) > 0:
@@ -174,7 +179,7 @@ def parse_article(dblp_path, save_path, save_to_csv=False, include_key=False):
 
 def parse_inproceedings(dblp_path, save_path, save_to_csv=False, include_key=False):
     type_name = ["inproceedings"]
-    features = ['title', 'author', 'year', 'pages', 'booktitle']
+    features = ['title', 'author', 'year', 'pages', 'booktitle','cite']
     info = parse_entity(dblp_path, save_path, type_name, features, save_to_csv=save_to_csv, include_key=include_key)
     log_msg('Total inproceedings found: {}, inproceedings contain all features: {}, inproceedings contain part of '
             'features: {}'.format(info[0] + info[1], info[0], info[1]))
@@ -183,7 +188,7 @@ def parse_inproceedings(dblp_path, save_path, save_to_csv=False, include_key=Fal
 
 def parse_proceedings(dblp_path, save_path, save_to_csv=False, include_key=False):
     type_name = ["proceedings"]
-    features = ['title', 'editor', 'year', 'booktitle', 'series', 'publisher']
+    features = ['title', 'editor', 'year', 'booktitle', 'series', 'publisher','cite']
     # Other features are 'volume','isbn' and 'url'.
     info = parse_entity(dblp_path, save_path, type_name, features, save_to_csv=save_to_csv, include_key=include_key)
     log_msg('Total proceedings found: {}, proceedings contain all features: {}, proceedings contain part of '
@@ -218,7 +223,7 @@ def main():
     except IOError:
         log_msg("ERROR: Failed to load file \"{}\". Please check your XML and DTD files.".format(dblp_path))
         exit()
-    parse_article(dblp_path, save_path, save_to_csv=False)
+    # parse_inproceedings(dblp_path, save_path, include_key=True)
 
 
 if __name__ == '__main__':
