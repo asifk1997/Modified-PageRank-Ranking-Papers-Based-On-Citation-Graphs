@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE dblp SYSTEM "dblp.dtd">
+<dblp>
+
+<article mdate="2012-09-17" key="1">
+<author>Mala Rajamani</author>
+<author>Karen C. Davis</author>
+<title>Partitioned Auxiliary Views for Self-Maintainable Data Warehouses.</title>
+<year>1998</year>
+<journal>IBM Research Report, San Jose, California</journal>
+</article>
+
+<article mdate="2012-09-18" key="2">
+<author>E. F. Codd</author>
+<title>Seven Steps to Rendezvous with the Casual User.</title>
+<year>1974</year>
+<journal>IFIP Working Conference Data Base Management</journal>
+<cite>1</cite>
+</article>
+
+<article mdate="2002-01-03" key="3">
+<author>E. F. Codd</author>
+<author>C. J. Date</author>
+<title>Interactive Support for Non-Programmers: The Relational and Network Approaches.</title>
+<journal>IBM Research Report, San Jose, California</journal>
+<year>1974</year>
+<cite>1</cite>
+</article>
+
+<article mdate="2002-01-03" key="4">
+<author>E. F. Codd</author>
+<author>C. J. Date</author>
+<title>Interactive Support for Non-Programmers: The Relational and Network Approaches.</title>
+<journal>IBM Research Report, San Jose, California</journal>
+<year>1974</year>
+<cite>1</cite>
+</article>
+
+<article mdate="2002-01-03" key="5">
+<author>E. F. Codd</author>
+<author>C. J. Date</author>
+<title>Interactive Support for Non-Programmers: The Relational and Network Approaches.</title>
+<journal>IBM Research Report, San Jose, California</journal>
+<year>1974</year>
+<cite>2</cite>
+</article>
+
+<article mdate="2002-01-03" key="6">
+<author>E. F. Codd</author>
+<author>C. J. Date</author>
+<title>Interactive Support for Non-Programmers: The Relational and Network Approaches.</title>
+<journal>IBM Research Report, San Jose, California</journal>
+<year>1974</year>
+<cite>3</cite>
+</article>
+
+
+<article mdate="2012-09-18" key="7">
+<author>E. F. Codd</author>
+<title>Seven Steps to Rendezvous with the Casual User.</title>
+<year>1974</year>
+<journal>IFIP Working Conference Data Base Management</journal>
+<cite>4</cite>
+</article>
+
+
+<article mdate="2012-09-17" key="8">
+<author>Mala Rajamani</author>
+<author>Karen C. Davis</author>
+<title>Partitioned Auxiliary Views for Self-Maintainable Data Warehouses.</title>
+<year>1998</year>
+<journal>IBM Research Report, San Jose, California</journal>
+<cite>4</cite>
+</article>
+
+<article mdate="2012-09-17" key="9">
+<author>Mala Rajamani</author>
+<author>Karen C. Davis</author>
+<title>Partitioned Auxiliary Views for Self-Maintainable Data Warehouses.</title>
+<year>1998</year>
+<journal>IBM Research Report, San Jose, California</journal>
+<cite>4</cite>
+<cite>1</cite>
+</article>
+
+<article mdate="2012-09-17" key="10">
+<author>Mala Rajamani</author>
+<author>Karen C. Davis</author>
+<title>Partitioned Auxiliary Views for Self-Maintainable Data Warehouses.</title>
+<year>1998</year>
+<journal>IBM Research Report, San Jose, California</journal>
+<cite>5</cite>
+<cite>2</cite>
+<cite>6</cite>
+</article>
+
+
+<article mdate="2012-09-17" key="11">
+<author>Mala Rajamani</author>
+<author>Karen C. Davis</author>
+<title>Partitioned Auxiliary Views for Self-Maintainable Data Warehouses.</title>
+<year>1998</year>
+<journal>IBM Research Report, San Jose, California</journal>
+<cite>3</cite>
+<cite>7</cite>
+</article>
+
+
+<article mdate="2012-09-17" key="12">
+<author>Mala Rajamani</author>
+<author>Karen C. Davis</author>
+<title>Partitioned Auxiliary Views for Self-Maintainable Data Warehouses.</title>
+<year>1998</year>
+<journal>IBM Research Report, San Jose, California</journal>
+<cite>8</cite>
+</article>
+
+<article mdate="2002-01-03" key="13">
+<author>E. F. Codd</author>
+<author>C. J. Date</author>
+<title>Interactive Support for Non-Programmers: The Relational and Network Approaches.</title>
+<journal>IBM Research Report, San Jose, California</journal>
+<year>1974</year>
+<cite>6</cite>
+<cite>9</cite>
+</article>
+
+<article mdate="2002-01-03" key="14">
+<author>E. F. Codd</author>
+<author>C. J. Date</author>
+<title>Interactive Support for Non-Programmers: The Relational and Network Approaches.</title>
+<journal>IBM Research Report, San Jose, California</journal>
+<year>1974</year>
+<cite>10</cite>
+<cite>11</cite>
+<cite>12</cite>
+</article>
+
+<article mdate="2002-01-03" key="15">
+<author>E. F. Codd</author>
+<author>C. J. Date</author>
+<title>Interactive Support for Non-Programmers: The Relational and Network Approaches.</title>
+<journal>IBM Research Report, San Jose, California</journal>
+<year>1974</year>
+<cite>11</cite>
+<cite>12</cite>
+<cite>13</cite>
+</article>
+
+<article mdate="2002-01-03" key="16">
+<author>E. F. Codd</author>
+<author>C. J. Date</author>
+<title>Interactive Support for Non-Programmers: The Relational and Network Approaches.</title>
+<journal>IBM Research Report, San Jose, California</journal>
+<year>1974</year>
+<cite>12</cite>
+<cite>13</cite>
+<cite>9</cite>
+</article>
+
+<article mdate="2002-01-03" key="17">
+<author>E. F. Codd</author>
+<author>C. J. Date</author>
+<title>Interactive Support for Non-Programmers: The Relational and Network Approaches.</title>
+<journal>IBM Research Report, San Jose, California</journal>
+<year>1974</year>
+</article>
+
+<article mdate="2002-01-03" key="18">
+<author>E. F. Codd</author>
+<author>C. J. Date</author>
+<title>Interactive Support for Non-Programmers: The Relational and Network Approaches.</title>
+<journal>IBM Research Report, San Jose, California</journal>
+<year>1974</year>
+</article>
+
+</dblp>

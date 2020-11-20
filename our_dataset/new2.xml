@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE dblp SYSTEM "dblp.dtd">
+<dblp>
+
+<article mdate="2012-09-17" key="1">
+<author>Mala Rajamani</author>
+<author>Karen C. Davis</author>
+<title>Partitioned Auxiliary Views for Self-Maintainable Data Warehouses.</title>
+<year>1998</year>
+<journal>IBM Research Report, San Jose, California</journal>
+</article>
+
+<article mdate="2012-09-17" key="2">
+<author>Mala Rajamani</author>
+<author>Karen C. Davis</author>
+<title>Partitioned Auxiliary Views for Self-Maintainable Data Warehouses.</title>
+<year>1998</year>
+<journal>IFIP Working Conference Data Base Management</journal>
+<cite>1</cite>
+</article>
+
+<article mdate="2012-09-17" key="3">
+<author>Mala Rajamani</author>
+<author>Karen C. Davis</author>
+<title>Partitioned Auxiliary Views for Self-Maintainable Data Warehouses.</title>
+<year>1998</year>
+<journal>IFIP Working Conference Data Base Management</journal>
+<cite>1</cite>
+</article>
+
+<article mdate="2012-09-17" key="4">
+<author>Mala Rajamani</author>
+<author>Karen C. Davis</author>
+<title>Partitioned Auxiliary Views for Self-Maintainable Data Warehouses.</title>
+<year>1998</year>
+<journal>IFIP Working Conference Data Base Management</journal>
+<cite>2</cite>
+<cite>3</cite>
+</article>
+
+
+</dblp>
