@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE dblp SYSTEM "dblp.dtd">
+<dblp>
+
+<article mdate="2020-12-14" key="1">
+<author>J. Kennedy</author>
+<author>R. Eberhart</author>
+<title>Particle swarm optimization</title>
+<year>2002</year>
+<journal>Proceedings of ICNN'95 - International Conference on Neural Networks</journal>
+</article>
+
+<article mdate="2020-12-14" key="2">
+<author>Salma Mirhadi</author>
+<author>Nader Komjani</author>
+<author>Mohammad Soleimani</author>
+<title>Ultra wideband antenna design using discrete Green's functions in conjunction with binary particle swarm optimisation</title>
+<year>2016</year>
+<journal>IET Microwaves, Antennas and Propagation</journal>
+<cite>1</cite>
+</article>
+
+<article mdate="2020-12-14" key="3">
+<author>Danilo Fernando Poveda-Pulla</author>
+<author>Jefferson Vicente Dominguez-Paute</author>
+<author>Luis Fernando Guerrero-Vásquez</author>
+<author>Paul Andres Chasi-Pesantez</author>
+<author>Jorge Osmani Ordoñez-Ordoñez</author>
+<author>Paul Esteban Vintimilla-Tapia</author>
+<title>Optimization designs in patch antennas using nature-inspired metaheuristic algorithms: A review</title>
+<year>2019</year>
+<journal>2018 IEEE Biennial Congress of Argentina (ARGENCON)</journal>
+<cite>2</cite>
+</article>
+
+<article mdate="2020-12-14" key="4">
+<author>Yichuan Yang</author>
+<author>Tianxian Zhang</author>
+<author>Wei Yi</author>
+<author>Lingjiang Kong</author>
+<author>Xiaolong Li</author>
+<author>Xiaobo Yang</author>
+<title>Multi-static radar power allocation for multi-stage stochastic task of missile interception</title>
+<year>2018</year>
+<journal>IET Radar, Sonar  Navigation</journal>
+<cite>1</cite>
+</article>
+
+<article mdate="2020-12-14" key="5">
+<author>Tuanwei Tian</author>
+<author>Tianxian Zhang</author>
+<author>Lingjiang Kong</author>
+<title>Timeliness Constrained Task Scheduling for Multifunction Radar Network</title>
+<year>2018</year>
+<journal> IEEE Sensors Journal</journal>
+<cite>4</cite>
+</article>
+
+<article mdate="2020-12-14" key="6">
+<author>Wei Qiao</author>
+<author>Liyan Qu</author>
+<author>Ronald G. Harley</author>
+<title>Control of IPM Synchronous Generator for Maximum Wind Power Generation Considering Magnetic Saturation</title>
+<year>2007</year>
+<journal>2007 IEEE Industry Applications Annual Meeting</journal>
+<cite>1</cite>
+</article>
+
+<article mdate="2020-12-14" key="7">
+<author>Maria Letizia Corradini</author>
+<author>Gianluca Ippoliti</author>
+<author>Giuseppe Orlando</author>
+<title>Robust Control of Variable-Speed Wind Turbines Based on an Aerodynamic Torque Observer</title>
+<year>2013</year>
+<journal>IEEE Transactions on Control Systems Technology</journal>
+<cite>6</cite>
+</article>
+
+<article mdate="2020-12-14" key="8">
+<author>M.L. Corradini</author>
+<author>A. Cristofaroy</author>
+<title>Fault-tolerant dynamic control allocation for permanent magnet synchronous motors</title>
+<year>2015</year>
+<journal>2015 American Control Conference (ACC)</journal>
+<cite>7</cite>
+</article>
+
+<article mdate="2020-12-14" key="9">
+<author>Marius Rad</author>
+<author>Florin ?imonca</author>
+<author>Adrian Fr?tean</author>
+<author>Petru Dobra</author>
+<title>Embedded speed control of BLDC motors using LPC1549 microcontroller</title>
+<year>2016</year>
+<journal>2016 IEEE International Conference on Automation, Quality and Testing, Robotics</journal>
+<cite>8</cite>
+</article>
+
+<article mdate="2020-12-14" key="10">
+<author>Ton Duc Do</author>
+<title>Disturbance Observer-Based Fuzzy SMC of WECSs Without Wind Speed Measurement</title>
+<year>2016</year>
+<journal>IEEE Access ( Volume: 5)</journal>
+<cite>7</cite>
+</article>
+
+<article mdate="2020-12-14" key="11">
+<author>B. Brandstatter</author>
+<author>U. Baumgartner</author>
+<title>Particle swarm optimization - mass-spring system analogon</title>
+<year>2002</year>
+<journal>IEEE Transactions on Magnetics ( Volume: 38, Issue: 2, March 2002)</journal>
+<cite>1</cite>
+</article>
+
+<article mdate="2020-12-14" key="12">
+<author>Jamal Toutouh</author>
+<author>Enrique Alba</author>
+<title>Parallel Swarm Intelligence for VANETs Optimization</title>
+<year>2012</year>
+<journal>2012 Seventh International Conference on P2P, Parallel, Grid, Cloud and Internet Computing</journal>
+<cite>1</cite>
+</article>
+
+<article mdate="2020-12-14" key="13">
+<author>Reetika Nagar</author>
+<author>Arvind Kumar</author>
+<author>Gaurav Pratap Singh</author>
+<author>Sachin Kumar</author>
+<title>Test case selection and prioritization using cuckoos search algorithm</title>
+<year>2015</year>
+<journal>2015 International Conference on Futuristic Trends on Computational Analysis and Knowledge Management (ABLAZE)</journal>
+<cite>1</cite>
+</article>
+
+<article mdate="2020-12-14" key="14">
+<author>Arvinder Kaur</author>
+<author>Arun Prakash Agrawal</author>
+<title>A comparative study of Bat and Cuckoo search algorithm for regression test case selection</title>
+<year>2017</year>
+<journal>2017 7th International Conference on Cloud Computing, Data Science and Engineering - Confluence</journal>
+<cite>13</cite>
+</article>
+
+<article mdate="2020-12-14" key="15">
+<author>Abhishek Singh Verma</author>
+<author>Ankur Choudhary</author>
+<author>Shailesh Tiwari</author>
+<title>Test Case Optimization using Butterfly Optimization Algorithm</title>
+<year>2020</year>
+<journal>2020 10th International Conference on Cloud Computing, Data Science and Engineering (Confluence)</journal>
+<cite>14</cite>
+</article>
+
+<article mdate="2020-12-14" key="16">
+<author>Mohammad Tubishat</author>
+<author>Seyedali Mirjalili</author>
+<author>Ma?en Tayseer Alrashdan</author>
+<title>Dynamic Butterfly Optimization Algorithm for Feature Selection</title>
+<year>2020</year>
+<journal>IEEE Access</journal>
+<cite>15</cite>
+</article>
+
+<article mdate="2020-12-14" key="17">
+<author>Dwaipayan Chakraborty</author>
+<author>Sankhadip Saha</author>
+<author>Samaresh Maity</author>
+<title>Training feedforward neural networks using hybrid flower pollination-gravitational search algorithm</title>
+<year>2015</year>
+<journal>2015 International Conference on Futuristic Trends on Computational Analysis and Knowledge Management (ABLAZE)</journal>
+<cite>1</cite>
+<cite>15</cite>
+</article>
+
+<article mdate="2020-12-14" key="18">
+<author>Ashish Sharma</author>
+<title>Algorithms simulating natural phenomena and hypercomputation</title>
+<year>2016</year>
+<journal>2016 IEEE Students' Conference on Electrical, Electronics and Computer Science (SCEECS)</journal>
+<cite>17</cite>
+</article>
+
+<article mdate="2020-12-14" key="19">
+<author>Arvind Upadhyay</author>
+<author>Ramesh Thakur</author>
+<author>Archna Thakur</author>
+<title>Natural phenomena simulating algorithms</title>
+<year>2020</year>
+<journal>2nd International Conference on Data, Engineering and Applications (IDEA)</journal>
+<cite>18</cite>
+</article>
+
+<article mdate="2020-12-14" key="20">
+<author>A. Naitali</author>
+<author>F. Giri</author>
+<title>Hammerstein and Wiener nonlinear models identification using a multimodal particle swarm optimizer</title>
+<year>2006</year>
+<journal>2006 American Control Conference</journal>
+<cite>1</cite>
+</article>
+
+<article mdate="2020-12-14" key="21">
+<author>Teresa G?ówka</author>
+<author>Jaros?aw Figwer</author>
+<title>Identification of linear subsystem for simple block-oriented nonlinear systems working in closed-loop ? Higher order spectra approach</title>
+<year>2014</year>
+<journal>2014 18th International Conference on System Theory, Control and Computing (ICSTCC)</journal>
+<cite>20</cite>
+</article>
+
+<article mdate="2020-12-14" key="22">
+<author>A. Naitali</author>
+<author>F. Giri</author>
+<author>A. Radouane</author>
+<author>F. Z. Chaoui</author>
+<title>Swarm intelligence based partitioning in local linear models identification</title>
+<year>2014</year>
+<journal>Intelligent Control (ISIC) 2014 IEEE International Symposium</journal>
+<cite>20</cite>
+</article>
+
+<article mdate="2020-12-14" key="23">
+<author>Jaros?aw Figwer</author>
+<title>Hammerstein system identification with multisine excitations ? Quantized low-power observations case</title>
+<year>2013</year>
+<journal>Methods and Models in Automation and Robotics (MMAR) 2013 18th International Conference</journal>
+<cite>20</cite>
+</article>
+
+<article mdate="2020-12-14" key="24">
+<author>Li Liu</author>
+<author>D.A. Cartes</author>
+<title>A particle swarm optimization approach for automatic diagnosis of PMSM stator fault</title>
+<year>2006</year>
+<journal>American Control Conference</journal>
+<cite>1</cite>
+</article>
+
+<article mdate="2020-12-14" key="25">
+<author>Yuncan Xue</author>
+<author>Jun Feng</author>
+<author>Fei Liu</author>
+<title>Modified particle swarm optimization algorithm for steelmaking charge plan with unknown charge number</title>
+<year>2006</year>
+<journal>American Control Conference</journal>
+<cite>1</cite>
+</article>
+
+<article mdate="2020-12-14" key="26">
+<author>M. Clerc</author>
+<author>J. Kennedy</author>
+<title>The particle swarm - explosion stability and convergence in a multidimensional complex space</title>
+<year>2002</year>
+<journal>Evolutionary Computation IEEE Transactions</journal>
+<cite>1</cite>
+</article>
+
+<article mdate="2020-12-14" key="27">
+<author>Yi Cai</author>
+<author>Zhutian Chen</author>
+<author>Huaqing Min</author>
+<title>Improving Particle Swarm Optimization Algorithm for Distributed Sensing and Search</title>
+<year>2013</year>
+<journal>P2P Parallel Grid Cloud and Internet Computing</journal>
+</article>
+
+<article mdate="2020-12-14" key="28">
+<author>R.L. Graham</author>
+<author>Pavol Hell</author>
+<title>On the History of the Minimum Spanning Tree Problem</title>
+<year>1985</year>
+<journal> Annals of the History of Computing</journal>
+</article>
+
+<article mdate="2020-12-14" key="29">
+<author>Deanne B. McPherson</author>
+<author>David L. Alderson</author>
+<title>A contrasting look at network formation models and their application to the minimum spanning tree</title>
+<year>2011</year>
+<journal>Conference on Signals, Systems and Computers (ASILOMAR)</journal>
+<cite>28</cite>
+</article>
+
+<article mdate="2020-12-14" key="30">
+<author>E.F.G. Goldbarg</author>
+<author>G.R. de Souza</author>
+<title>Particle Swarm Optimization for the Bi-objective Degree constrained Minimum Spanning Tree</title>
+<year>2006</year>
+<journal>2006 IEEE International Conference on Evolutionary Computation</journal>
+<cite>1</cite>
+<cite>28</cite>
+</article>
+
+<article mdate="2020-12-14" key="31">
+<author>G.F. Sullivan</author>
+<author>G.M. Masson</author>
+<title>Using certification trails to achieve software fault tolerance</title>
+<year>1990</year>
+<journal>Fault-Tolerant Computing: 20th International Symposium</journal>
+<cite>28</cite>
+</article>
+
+</dblp>

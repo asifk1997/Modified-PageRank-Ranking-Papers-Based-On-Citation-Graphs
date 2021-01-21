@@ -1,0 +1,740 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE dblp SYSTEM "dblp.dtd">
+<dblp>
+
+<article mdate="2020-12-13" key="1">
+<author>Hoare</author>
+<author>C. A. R.</author>
+<title>Quicksort</title>
+<year>1962</year>
+<journal>The Computer Journal</journal>
+</article>
+
+<article mdate="2020-12-13" key="2">
+<author>Reza Saadati</author>
+<author>S. Mansour Vaezpour</author>
+<author>Yeol J. Cho</author>
+<title>Quicksort algorithm: Application of a fixed point theorem in intuitionistic fuzzy quasi-metric spaces at a domain of words</title>
+<year>2009</year>
+<journal>Journal of Computational and Applied Mathematics</journal>
+<cite>1</cite>
+</article>
+
+
+<article mdate="2020-12-13" key="3">
+<author>Knuth</author>
+<author> Donald E. and Motwani</author>
+<author>Rajeev and Pittel</author>
+<author>Boris</author>
+<title>Stable Husbands</title>
+<year>1990</year>
+<journal>Society for Industrial and Applied Mathematics</journal>
+</article>
+
+<article mdate="2020-12-13" key="3">
+<author>Knuth</author>
+<author> Donald E. and Motwani</author>
+<author>Rajeev and Pittel</author>
+<author>Boris</author>
+<title>Stable Husbands</title>
+<year>1990</year>
+<journal>Society for Industrial and Applied Mathematics</journal>
+</article>
+
+<article mdate="2020-12-13" key="4">
+<author>D. J. Abraham</author>
+<author>R. W. Irving</author>
+<author>K. Mehlhorn</author>
+<author>T. Kavitha</author>
+<title>Popular Matchings</title>
+<year>2007</year>
+<journal>Society for Industrial and Applied Mathematics</journal>
+</article>
+
+<article mdate="2020-12-13" key="5">
+<author>Kazuo Iwama</author>
+<author>Shuichi Miyazaki</author>
+<title>A Survey of the Stable Marriage Problem and Its Variants</title>
+<year>2008</year>
+<journal>International Conference on Informatics Education and Research for Knowledge-Circulating Society</journal>
+<cite>7</cite>
+</article>
+
+<article mdate="2020-12-13" key="6">
+<author>Vipul Bansal</author>
+<author>Aseem Agrawal</author>
+<author>Varun S. Malhotra</author>
+<title>Stable Marriages with Multiple Partners: Efficient Search for an Optimal Solution</title>
+<year>2003</year>
+<journal>Automata, Languages and Programming</journal>
+<cite>7</cite>
+<cite>9</cite>
+</article>
+
+<article mdate="2020-12-13" key="7">
+<author>D. Gale</author>
+<author>L.S. Shapely</author>
+<title>College Admissions and the Stability of Marriage</title>
+<year>1962</year>
+<journal>American Mathematical Monthly</journal>
+</article>
+
+<article mdate="2020-12-13" key="8">
+<author>D. Gale</author>
+<author>Marilda Sotomayor</author>
+<title>Some remarks on the stable matching problem</title>
+<year>1985</year>
+<journal>Discrete Applied Mathematics</journal>
+<cite>7</cite>
+<cite>10</cite>
+</article>
+
+
+<article mdate="2020-12-13" key="9">
+<author>Picard</author>
+<author>Jean-Claude</author>
+<title>Maximal Closure of a Graph and Applications to Combinatorial Problems</title>
+<year>1976</year>
+<journal>Management Science</journal>
+</article>
+
+<article mdate="2020-12-13" key="10">
+<author>L.E. Dubins</author>
+<author>D. Freedman</author>
+<title>Machiavelli and the Gale-Shapley Algorithm</title>
+<year>1981</year>
+<journal>American Mathematical Monthly</journal>
+<cite>7</cite>
+</article>
+
+
+
+<article mdate="2020-12-13" key="11">
+<author>Robert W Irving</author>
+<author>Paul Leather</author>
+<title>The complexity of counting stable marriages</title>
+<year>1986</year>
+<journal>Society for Industrial and Applied Mathematics</journal>
+<cite>7</cite>
+<cite>12</cite>
+<cite>13</cite>
+</article>
+
+
+
+<article mdate="2020-12-13" key="12">
+<author>Robert W Irving</author>
+<title>An efficient algorithm for the stable roommates problem</title>
+<year>1985</year>
+<journal>Journal of Algorithms</journal>
+<cite>7</cite>
+</article>
+
+
+<article mdate="2020-12-13" key="13">
+<author>J. Scott Provan</author>
+<author>Michael O. Ball</author>
+<title>The Complexity of Counting Cuts and of Computing the Probability that a Graph is Connected</title>
+<year>1983</year>
+<journal>Society for Industrial and Applied Mathematics</journal>
+</article>
+
+<article mdate="2020-12-13" key="14">
+<author>Pratik Ghosal</author>
+<author>Meghana Nasre</author>
+<author>Prajakta Nimbhorkar</author>
+<title>Rank Maximal Matchings -- Structure and Algorithms</title>
+<year>2014</year>
+<journal>International Symposium on Algorithms and Computation</journal>
+<cite>4</cite>
+</article>
+
+
+<article mdate="2020-12-13" key="15">
+<author>Telikepalli Kavitha</author>
+<author>Meghana Nasre</author>
+<author>Prajakta Nimbhorkar</author>
+<title>Popularity at Minimum Cost</title>
+<year>2010</year>
+<journal>International Symposium on Algorithms and Computation</journal>
+<cite>4</cite>
+</article>
+
+<article mdate="2020-12-13" key="16">
+<author>Esko Ukkonen</author>
+<author>Heikki Mannila</author>
+<title>A simple linear-time algorithm for in situ merging</title>
+<year>1984</year>
+<journal>Information Processing Letters</journal>
+<cite>17</cite>
+</article>
+
+<article mdate="2020-12-13" key="17">
+<author>Kreysztof Dudzi?ki</author>
+<author>Andrzej Dydek</author>
+<title>On a stable minimum storage merging algorithm</title>
+<year>1981</year>
+<journal>Information Processing Letters</journal>
+<cite>21</cite>
+</article>
+
+
+<article mdate="2012-09-17" key="18">
+<author>R. Vignesh</author>
+<author>Tribikram Pradhan</author>
+<title>Merge sort enhanced in place sorting algorithm</title>
+<year>2016</year>
+<journal>International Conference on Advanced Communication, Control and Computing Technologies</journal>
+<cite>19</cite>
+<cite>22</cite>
+<cite>21</cite>
+</article>
+
+<article mdate="2012-09-17" key="19">
+<author>Jingchao Chen</author>
+<title>Optimizing stable in-place merging</title>
+<year>2003</year>
+<journal>Theoretical Computer Science</journal>
+<cite>20</cite>
+<cite>21</cite>
+<cite>22</cite>
+<cite>23</cite>
+</article>
+
+<article mdate="2012-09-17" key="20">
+<author>F. K. Hwang</author>
+<author>S. Lin</author>
+<title>A Simple Algorithm for Merging Two Disjoint Linearly Ordered Sets</title>
+<year>1972</year>
+<journal>Society for Industrial and Applied Mathematics</journal>
+</article>
+
+
+<article mdate="2012-09-17" key="21">
+<author>Pardo</author>
+<author>Luis Trabb</author>
+<title>Stable Sorting and Merging with Optimal Space and Time Bounds</title>
+<year>1977</year>
+<journal>Society for Industrial and Applied Mathematics</journal>
+</article>
+
+
+<article mdate="2012-09-17" key="22">
+<author>Antonios Symvonis</author>
+<title>Optimal Stable Merging</title>
+<year>1997</year>
+<journal>The Computer Journal</journal>
+<cite>23</cite>
+</article>
+
+
+<article mdate="2012-09-17" key="23">
+<author>Jeffrey S. Salowe</author>
+<author>W. Steiger</author>
+<title>Simplified Stable Merging Tasks</title>
+<year>1987</year>
+<journal>J. Algorithms</journal>
+<cite>21</cite>
+</article>
+
+
+<article mdate="2012-09-17" key="24">
+<author>Gianni Franceschini</author>
+<title>Sorting Stably, In-Place, with O(n log n) Comparisons and O(n) Moves</title>
+<year>2005</year>
+<journal>Symposium on Theoretical Aspects of Computer Science</journal>
+<cite>23</cite>
+<cite>21</cite>
+</article>
+
+<article mdate="2012-09-17" key="25">
+<author>Pok-Son Kim</author>
+<author>Arne Kutzner</author>
+<title>Ratio Based Stable In-Place Merging</title>
+<year>2008</year>
+<journal>Theory and Applications of Models of Computation</journal>
+<cite>22</cite>
+<cite>21</cite>
+<cite>20</cite>
+<cite>23</cite>
+<cite>16</cite>
+</article>
+
+
+
+
+<article mdate="2020-12-13" key="26">
+<author>Wutiphol Sintunavarat</author>
+<author>Yeol Je Cho</author>
+<author>Poom Kumam</author>
+<title>Coupled coincidence point theorems for contractions without commutative condition in intuitionistic fuzzy normed spaces</title>
+<year>2011</year>
+<journal>Fixed Point Theory and Applications</journal>
+</article>
+
+<article mdate="2020-12-13" key="27">
+<author>M. Mursaleen</author>
+<author>S.A. Mohiuddine</author>
+<title>On lacunary statistical convergence with respect to the intuitionistic fuzzy normed space</title>
+<year>2008</year>
+<journal>Journal of Computational and Applied Mathematics</journal>
+</article>
+
+<article mdate="2020-12-13" key="28">
+<author>Jin Han Park</author>
+<title>Intuitionistic fuzzy metric spaces</title>
+<year>2004</year>
+<journal>Chaos, Solitons &amp; Fractals</journal>
+<cite>27</cite>
+</article>
+
+<article mdate="2020-12-13" key="29">
+<author>M.Mursaleen</author>
+<author>S.A.Mohiuddine</author>
+<title>On lacunary statistical convergence with respect to the intuitionistic fuzzy normed space</title>
+<year>2009</year>
+<journal>Journal of Computational and Applied Mathematics</journal>
+<cite>27</cite>
+<cite>26</cite>
+</article>
+
+<article mdate="2020-12-13" key="30">
+<author>Krassimir T. Atanassov</author>
+<title>Intuitionistic Fuzzy Sets</title>
+<year>2016</year>
+<journal>International Journal Bioautomation</journal>
+<cite>26</cite>
+<cite>2</cite>
+</article>
+
+<article mdate="2020-12-13" key="31">
+<author>L.A. Zadeh</author>
+<title>FUZZY SETS</title>
+<year>1996</year>
+<journal>Fuzzy Sets, Fuzzy Logic, and Fuzzy Systems</journal>
+<cite>26</cite>
+<cite>27</cite>
+</article>
+
+<article mdate="2020-12-13" key="32">
+<author>Hugo Gilbert </author>
+<author>Olivier Spanjaard</author>
+<title>Optimizing a Generalized Gini Index in Stable Marriage Problems: NP-Hardness, Approximation and a Polynomial Time Special Case</title>
+<year>2019</year>
+<journal>Algorithmica</journal>
+</article>
+
+<article mdate="2020-12-13" key="33">
+<author>Dan Gusfield</author>
+<title>Three Fast Algorithms for Four Problems in Stable marraige</title>
+<year>1987</year>
+<journal>SIAM Journal on Computing</journal>
+<cite>32</cite>
+</article>
+
+<article mdate="2020-12-13" key="34">
+<author>Egon Balas</author>
+<title>An Additive Algorithm for Solving Linear Programs with Zero-One Variables</title>
+<year>1965</year>
+<journal>Operations Research</journal>
+<cite>36</cite>
+<cite>37</cite>
+<cite>35</cite>
+</article>
+
+<article mdate="2020-12-13" key="35">
+<author>Arnaud Freville</author>
+<title>The multidimensional 0â€“1 knapsack problem</title>
+<year>2004</year>
+<journal>European Journal of Operational Research</journal>
+</article>
+
+<article mdate="2020-12-13" key="36">
+<author>P.C. CHU </author>
+<author>J.E. BEASLEY</author>
+<title>A Genetic Algorithm for the Multidimensional Knapsack Problem</title>
+<year>1998</year>
+<journal>Journal of Heuristics</journal>
+</article>
+
+<article mdate="2020-12-14" key="37">
+<author>J. Beasley</author>
+<author>P.C. Chu</author>
+<title>A genetic algorithm for the set covering problem</title>
+<year>1996</year>
+<journal>European Journal of Operational Research</journal>
+</article>
+
+<article mdate="2020-12-14" key="38">
+<author>Pablo Moscato</author>
+<author>Carlos Cotta</author>
+<title>A GENTLE INTRODUCTION TO MEMETIC ALGORITHMS</title>
+<year>2003</year>
+<journal>Handbook of metaheuristics</journal>
+<cite>36</cite>
+<cite>37</cite>
+</article>
+
+<article mdate="2020-12-14" key="39">
+<author>Michael 0. Ball</author>
+<title>Computational Complexity of Network Reliability Analysis</title>
+<year>1986</year>
+<journal>IEEE TRANSACTIONS ON RELIABILITY</journal>
+</article>
+
+<article mdate="2020-12-14" key="40">
+<author>Nilesh Dalvi</author>
+<author>Dan Suciu</author>
+<title>Efficient query evaluation on probabilistic databases</title>
+<year>2005</year>
+<journal>The VLDB Journal</journal>
+</article>
+
+<article mdate="2020-12-14" key="41">
+<author>LOTFI A. ZADEH</author>
+<title>Outline of a New Approach to the Analysis of Complex Systems and Decision Processes</title>
+<year>1973</year>
+<journal>TRANSACTIONS ON SYSTEMS, MAN, AND CYBERNETICS</journal>
+</article>
+
+<article mdate="2020-12-14" key="42">
+<author>Gregory F. Cooper</author>
+<title>The Computational Complexity of Probabilistic Inference Using Bayesian Belief Networks</title>
+<year>1990</year>
+<journal>Artificial Intelligence</journal>
+</article>
+
+<article mdate="2020-12-14" key="43">
+<author>R. E. Bellman</author>
+<author>L. A. Zadeh</author>
+<title>Decision-Making in a Fuzzy Environment</title>
+<year>1970</year>
+<journal>: Institute for Operations Research and the Management Sciences</journal>
+</article>
+
+<article mdate="2020-12-14" key="44">
+<author>Kenneth L. Clarkson</author>
+<author>Peter W. Shor</author>
+<title>Applications of Random Sampling in Computational Geometry</title>
+<year>1989</year>
+<journal>Discrete Computational Geometry </journal>
+</article>
+
+<article mdate="2020-12-14" key="45">
+<author>Christian Marck</author>
+<title>DNA Stricter': a C program for the fast analysis of DNA and protein sequences on the Apple Macintosh family of computers</title>
+<year>1988</year>
+<journal>Nucleic Acids Research</journal>
+</article>
+
+<article mdate="2020-12-14" key="46">
+<author>Alvin E. Roth</author>
+<title>The Evolution of the Labor Market for Medical Interns and Residents:A Case Study in Game Theory</title>
+<year>1984</year>
+<journal>journal of political economy</journal>
+</article>
+
+
+
+
+
+<article mdate="2020-12-14" key="75">
+<author>J. Kennedy</author>
+<author>R. Eberhart</author>
+<title>Particle swarm optimization</title>
+<year>2002</year>
+<journal>Proceedings of ICNN'95 - International Conference on Neural Networks</journal>
+</article>
+
+<article mdate="2020-12-14" key="76">
+<author>Salma Mirhadi</author>
+<author>Nader Komjani</author>
+<author>Mohammad Soleimani</author>
+<title>Ultra wideband antenna design using discrete Green's functions in conjunction with binary particle swarm optimisation</title>
+<year>2016</year>
+<journal>IET Microwaves, Antennas &amp; Propagation</journal>
+<cite>75</cite>
+</article>
+
+<article mdate="2020-12-14" key="77">
+<author>Danilo Fernando Poveda-Pulla</author>
+<author>Jefferson Vicente Dominguez-Paute</author>
+<author>Luis Fernando Guerrero-Vásquez</author>
+<author>Paul Andres Chasi-Pesantez</author>
+<author>Jorge Osmani Ordoñez-Ordoñez</author>
+<author>Paul Esteban Vintimilla-Tapia</author>
+<title>Optimization designs in patch antennas using nature-inspired metaheuristic algorithms: A review</title>
+<year>2019</year>
+<journal>2018 IEEE Biennial Congress of Argentina (ARGENCON)</journal>
+<cite>76</cite>
+</article>
+
+<article mdate="2020-12-14" key="78">
+<author>Yichuan Yang</author>
+<author>Tianxian Zhang</author>
+<author>Wei Yi</author>
+<author>Lingjiang Kong</author>
+<author>Xiaolong Li</author>
+<author>Xiaobo Yang</author>
+<title>Multi-static radar power allocation for multi-stage stochastic task of missile interception</title>
+<year>2018</year>
+<journal>IET Radar, Sonar &amp; Navigation</journal>
+<cite>75</cite>
+</article>
+
+<article mdate="2020-12-14" key="79">
+<author>Tuanwei Tian</author>
+<author>Tianxian Zhang</author>
+<author>Lingjiang Kong</author>
+<title>Timeliness Constrained Task Scheduling for Multifunction Radar Network</title>
+<year>2018</year>
+<journal> IEEE Sensors Journal</journal>
+<cite>78</cite>
+</article>
+
+<article mdate="2020-12-14" key="80">
+<author>Wei Qiao</author>
+<author>Liyan Qu</author>
+<author>Ronald G. Harley</author>
+<title>Control of IPM Synchronous Generator for Maximum Wind Power Generation Considering Magnetic Saturation</title>
+<year>2007</year>
+<journal>2007 IEEE Industry Applications Annual Meeting</journal>
+<cite>75</cite>
+</article>
+
+<article mdate="2020-12-14" key="81">
+<author>Maria Letizia Corradini</author>
+<author>Gianluca Ippoliti</author>
+<author>Giuseppe Orlando</author>
+<title>Robust Control of Variable-Speed Wind Turbines Based on an Aerodynamic Torque Observer</title>
+<year>2013</year>
+<journal>IEEE Transactions on Control Systems Technology</journal>
+<cite>80</cite>
+</article>
+
+<article mdate="2020-12-14" key="82">
+<author>M.L. Corradini</author>
+<author>A. Cristofaroy</author>
+<title>Fault-tolerant dynamic control allocation for permanent magnet synchronous motors</title>
+<year>2015</year>
+<journal>2015 American Control Conference (ACC)</journal>
+<cite>81</cite>
+</article>
+
+<article mdate="2020-12-14" key="83">
+<author>Marius Rad</author>
+<author>Florin ?imonca</author>
+<author>Adrian Fr?tean</author>
+<author>Petru Dobra</author>
+<title>Embedded speed control of BLDC motors using LPC1549 microcontroller</title>
+<year>2016</year>
+<journal>2016 IEEE International Conference on Automation, Quality and Testing, Robotics</journal>
+<cite>82</cite>
+</article>
+
+<article mdate="2020-12-14" key="84">
+<author>Ton Duc Do</author>
+<title>Disturbance Observer-Based Fuzzy SMC of WECSs Without Wind Speed Measurement</title>
+<year>2016</year>
+<journal>IEEE Access ( Volume: 5)</journal>
+<cite>81</cite>
+</article>
+
+<article mdate="2020-12-14" key="85">
+<author>B. Brandstatter</author>
+<author>U. Baumgartner</author>
+<title>Particle swarm optimization - mass-spring system analogon</title>
+<year>2002</year>
+<journal>IEEE Transactions on Magnetics ( Volume: 38, Issue: 2, March 2002)</journal>
+<cite>75</cite>
+</article>
+
+<article mdate="2020-12-14" key="86">
+<author>Jamal Toutouh</author>
+<author>Enrique Alba</author>
+<title>Parallel Swarm Intelligence for VANETs Optimization</title>
+<year>2012</year>
+<journal>2012 Seventh International Conference on P2P, Parallel, Grid, Cloud and Internet Computing</journal>
+<cite>75</cite>
+</article>
+
+<article mdate="2020-12-14" key="87">
+<author>Reetika Nagar</author>
+<author>Arvind Kumar</author>
+<author>Gaurav Pratap Singh</author>
+<author>Sachin Kumar</author>
+<title>Test case selection and prioritization using cuckoos search algorithm</title>
+<year>2015</year>
+<journal>2015 International Conference on Futuristic Trends on Computational Analysis and Knowledge Management (ABLAZE)</journal>
+<cite>75</cite>
+</article>
+
+<article mdate="2020-12-14" key="88">
+<author>Arvinder Kaur</author>
+<author>Arun Prakash Agrawal</author>
+<title>A comparative study of Bat and Cuckoo search algorithm for regression test case selection</title>
+<year>2017</year>
+<journal>2017 7th International Conference on Cloud Computing, Data Science &amp; Engineering - Confluence</journal>
+<cite>87</cite>
+</article>
+
+<article mdate="2020-12-14" key="89">
+<author>Abhishek Singh Verma</author>
+<author>Ankur Choudhary</author>
+<author>Shailesh Tiwari</author>
+<title>Test Case Optimization using Butterfly Optimization Algorithm</title>
+<year>2020</year>
+<journal>2020 10th International Conference on Cloud Computing, Data Science &amp; Engineering (Confluence)</journal>
+<cite>88</cite>
+</article>
+
+<article mdate="2020-12-14" key="90">
+<author>Mohammad Tubishat</author>
+<author>Seyedali Mirjalili</author>
+<author>Ma?en Tayseer Alrashdan</author>
+<title>Dynamic Butterfly Optimization Algorithm for Feature Selection</title>
+<year>2020</year>
+<journal>IEEE Access</journal>
+<cite>89</cite>
+</article>
+
+<article mdate="2020-12-14" key="91">
+<author>Dwaipayan Chakraborty</author>
+<author>Sankhadip Saha</author>
+<author>Samaresh Maity</author>
+<title>Training feedforward neural networks using hybrid flower pollination-gravitational search algorithm</title>
+<year>2015</year>
+<journal>2015 International Conference on Futuristic Trends on Computational Analysis and Knowledge Management (ABLAZE)</journal>
+<cite>75</cite>
+<cite>89</cite>
+</article>
+
+<article mdate="2020-12-14" key="92">
+<author>Ashish Sharma</author>
+<title>Algorithms simulating natural phenomena and hypercomputation</title>
+<year>2016</year>
+<journal>2016 IEEE Students' Conference on Electrical, Electronics and Computer Science (SCEECS)</journal>
+<cite>91</cite>
+</article>
+
+<article mdate="2020-12-14" key="93">
+<author>Arvind Upadhyay</author>
+<author>Ramesh Thakur</author>
+<author>Archna Thakur</author>
+<title>Natural phenomena simulating algorithms</title>
+<year>2020</year>
+<journal>2nd International Conference on Data, Engineering and Applications (IDEA)</journal>
+<cite>92</cite>
+</article>
+
+<article mdate="2020-12-14" key="94">
+<author>A. Naitali</author>
+<author>F. Giri</author>
+<title>Hammerstein and Wiener nonlinear models identification using a multimodal particle swarm optimizer</title>
+<year>2006</year>
+<journal>2006 American Control Conference</journal>
+<cite>75</cite>
+</article>
+
+<article mdate="2020-12-14" key="95">
+<author>Teresa G?ówka</author>
+<author>Jaros?aw Figwer</author>
+<title>Identification of linear subsystem for simple block-oriented nonlinear systems working in closed-loop ? Higher order spectra approach</title>
+<year>2014</year>
+<journal>2014 18th International Conference on System Theory, Control and Computing (ICSTCC)</journal>
+<cite>94</cite>
+</article>
+
+<article mdate="2020-12-14" key="96">
+<author>A. Naitali</author>
+<author>F. Giri</author>
+<author>A. Radouane</author>
+<author>F. Z. Chaoui</author>
+<title>Swarm intelligence based partitioning in local linear models identification</title>
+<year>2014</year>
+<journal>Intelligent Control (ISIC) 2014 IEEE International Symposium</journal>
+<cite>94</cite>
+</article>
+
+<article mdate="2020-12-14" key="97">
+<author>Jaros?aw Figwer</author>
+<title>Hammerstein system identification with multisine excitations ? Quantized low-power observations case</title>
+<year>2013</year>
+<journal>Methods and Models in Automation and Robotics (MMAR) 2013 18th International Conference</journal>
+<cite>94</cite>
+</article>
+
+<article mdate="2020-12-14" key="98">
+<author>Li Liu</author>
+<author>D.A. Cartes</author>
+<title>A particle swarm optimization approach for automatic diagnosis of PMSM stator fault</title>
+<year>2006</year>
+<journal>American Control Conference</journal>
+<cite>75</cite>
+</article>
+
+<article mdate="2020-12-14" key="99">
+<author>Yuncan Xue</author>
+<author>Jun Feng</author>
+<author>Fei Liu</author>
+<title>Modified particle swarm optimization algorithm for steelmaking charge plan with unknown charge number</title>
+<year>2006</year>
+<journal>American Control Conference</journal>
+<cite>75</cite>
+</article>
+
+<article mdate="2020-12-14" key="100">
+<author>M. Clerc</author>
+<author>J. Kennedy</author>
+<title>The particle swarm - explosion stability and convergence in a multidimensional complex space</title>
+<year>2002</year>
+<journal>Evolutionary Computation IEEE Transactions</journal>
+<cite>75</cite>
+</article>
+
+<article mdate="2020-12-14" key="101">
+<author>Yi Cai</author>
+<author>Zhutian Chen</author>
+<author>Huaqing Min</author>
+<title>Improving Particle Swarm Optimization Algorithm for Distributed Sensing and Search</title>
+<year>2013</year>
+<journal>P2P Parallel Grid Cloud and Internet Computing</journal>
+<cite>75</cite>
+</article>
+
+<article mdate="2020-12-14" key="102">
+<author>R.L. Graham</author>
+<author>Pavol Hell</author>
+<title>On the History of the Minimum Spanning Tree Problem</title>
+<year>1985</year>
+<journal> Annals of the History of Computing</journal>
+</article>
+
+<article mdate="2020-12-14" key="103">
+<author>Deanne B. McPherson</author>
+<author>David L. Alderson</author>
+<title>A contrasting look at network formation models and their application to the minimum spanning tree</title>
+<year>2011</year>
+<journal>Conference on Signals, Systems and Computers (ASILOMAR)</journal>
+<cite>102</cite>
+</article>
+
+<article mdate="2020-12-14" key="104">
+<author>E.F.G. Goldbarg</author>
+<author>G.R. de Souza</author>
+<title>Particle Swarm Optimization for the Bi-objective Degree constrained Minimum Spanning Tree</title>
+<year>2006</year>
+<journal>2006 IEEE International Conference on Evolutionary Computation</journal>
+<cite>75</cite>
+<cite>102</cite>
+</article>
+
+<article mdate="2020-12-14" key="105">
+<author>G.F. Sullivan</author>
+<author>G.M. Masson</author>
+<title>Using certification trails to achieve software fault tolerance</title>
+<year>1990</year>
+<journal>Fault-Tolerant Computing: 20th International Symposium</journal>
+<cite>102</cite>
+</article>
+</dblp>

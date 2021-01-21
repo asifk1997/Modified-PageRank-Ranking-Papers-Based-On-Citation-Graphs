@@ -247,7 +247,7 @@
 <cite>21</cite>
 </article>
 
-<article mdate="2012-09-17" key="25">
+<article mdate="2020-12-13" key="25">
 <author>Pok-Son Kim</author>
 <author>Arne Kutzner</author>
 <title>Ratio Based Stable In-Place Merging</title>
@@ -259,6 +259,200 @@
 <cite>23</cite>
 <cite>16</cite>
 </article>
+
+<article mdate="2020-12-13" key="26">
+<author>Wutiphol Sintunavarat</author>
+<author>Yeol Je Cho</author>
+<author>Poom Kumam</author>
+<title>Coupled coincidence point theorems for contractions without commutative condition in intuitionistic fuzzy normed spaces</title>
+<year></year>
+<journal>Fixed Point Theory and Applications</journal>
+</article>
+
+<article mdate="2020-12-13" key="27">
+<author>M. Mursaleen</author>
+<author>S.A. Mohiuddine</author>
+<title>On lacunary statistical convergence with respect to the intuitionistic
+fuzzy normed space</title>
+<year>2008</year>
+<journal>Journal of Computational and Applied Mathematics</journal>
+</article>
+
+<article mdate="2020-12-13" key="28">
+<author>Jin Han Park</author>
+<title>Intuitionistic fuzzy metric spaces</title>
+<year></year>
+<journal>Chaos, Solitons & Fractals</journal>
+</article>
+
+<article mdate="2020-12-13" key="29">
+<author>M.Mursaleen</author>
+<author>S.A.Mohiuddine</author>
+<title>On lacunary statistical convergence with respect to the intuitionistic fuzzy normed space</title>
+<year>2009</year>
+<journal>Journal of Computational and Applied Mathematics</journal>
+</article>
+
+<article mdate="2020-12-13" key="30">
+<author>Krassimir T. Atanassov</author>
+<title>Intuitionistic Fuzzy Sets</title>
+<year></year>
+<journal>Fuzzy Sets System</journal>
+</article>
+
+<article mdate="2020-12-13" key="31">
+<author>L.A. Zadeh</author>
+<title>FUZZY SETS</title>
+<year>1996</year>
+<journal></journal>
+</article>
+
+<article mdate="2020-12-13" key="32">
+<author>Hugo Gilbert </author>
+<author>Olivier Spanjaard</author>
+<title>Optimizing a Generalized Gini Index in Stable Marriage Problems: NP-Hardness, Approximation and a Polynomial Time Special Case</title>
+<year>2019</year>
+<journal></journal>
+</article>
+
+<article mdate="2020-12-13" key="33">
+<author>Dan Gusfield</author>
+<title>Three Fast Algorithms for Four Problems in Stable marraige</title>
+<year>1986</year>
+<journal>SIAM Journal on Computing</journal>
+</article>
+
+<article mdate="2020-12-13" key="34">
+<author>Egon Balas</author>
+<title>“An Additive Algorithm for Solving Linear Programs with Zero-One Variables</title>
+<year>1965</year>
+<journal></journal>
+</article>
+
+<article mdate="2020-12-13" key="35">
+<author>Arnaud Freville</author>
+<title>The multidimensional 0–1 knapsack problem</title>
+<year>2003</year>
+<journal>European Journal of Operational Research</journal>
+</article>
+
+<article mdate="2020-12-13" key="36">
+<author>P.C. CHU </author>
+<author>J.E. BEASLEY</author>
+<title>A Genetic Algorithm for the Multidimensional Knapsack Problem</title>
+<year></year>
+<journal>Journal of Heuristics</journal>
+</article>
+
+<article mdate="2020-12-14" key="37">
+<author>J. Beasley</author>
+<author>P.C. Chu</author>
+<title>A genetic algorithm for the set covering problem</title>
+<year>1996</year>
+<journal>European Journal of Operational Research</journal>
+</article>
+
+<article mdate="2020-12-14" key="38">
+<author>Pablo Moscato</author>
+<author>Carlos Cotta</author>
+<title>A GENTLE INTRODUCTION TO MEMETIC ALGORITHMS</title>
+<year></year>
+<journal></journal>
+</article>
+
+<article mdate="2020-12-14" key="39">
+<author>Michael 0. Ball</author>
+<title>Computational Complexity of Network Reliability Analysis</title>
+<year>1986</year>
+<journal>IEEE TRANSACTIONS ON RELIABILITY</journal>
+</article>
+
+<article mdate="2020-12-14" key="40">
+<author>Nilesh Dalvi</author>
+<author>Dan Suciu</author>
+<title>Efficient query evaluation on probabilistic databases</title>
+<year>2005</year>
+<journal>The VLDB Journal</journal>
+</article>
+
+<article mdate="2020-12-14" key="41">
+<author>LOTFI A. ZADEH</author>
+<title>Outline of a New Approach to the Analysis of Complex Systems and Decision Processes</title>
+<year>1973</year>
+<journal>TRANSACTIONS ON SYSTEMS, MAN, AND CYBERNETICS</journal>
+</article>
+
+<article mdate="2020-12-14" key="42">
+<author>Gregory F. Cooper</author>
+<title>The Computational Complexity of Probabilistic Inference Using Bayesian Belief Networks</title>
+<year>1990</year>
+<journal>Artificial Intelligence</journal>
+</article>
+
+<article mdate="2020-12-14" key="43">
+<author>R. E. Bellman</author>
+<author>L. A. Zadeh</author>
+<title>Decision-Making in a Fuzzy Environment</title>
+<year>1970</year>
+<journal>: Institute for Operations Research and the Management Sciences</journal>
+</article>
+
+<article mdate="2020-12-14" key="44">
+<author>Kenneth L. Clarkson</author>
+<author>Peter W. Shor</author>
+<title>Applications of Random Sampling in Computational Geometry,</title>
+<year>1989</year>
+<journal>Discrete Computational Geometry </journal>
+</article>
+
+<article mdate="2020-12-14" key="45">
+<author>Christian Marck</author>
+<title>'DNA Stricter': a C program for the fast analysis of DNA and protein sequences on the Apple Macintosh family of computers</title>
+<year>1988</year>
+<journal>Nucleic Acids Research</journal>
+</article>
+
+<article mdate="2020-12-14" key="46">
+<author>Alvin E. Roth</author>
+<title>The Evolution of the Labor Market for Medical Interns and Residents:A Case Study in Game Theory</title>
+<year>2000</year>
+<journal>journal of political economy</journal>
+</article>
+
+<article mdate="2020-12-14" key="47">
+<author></author>
+<title></title>
+<year></year>
+<journal></journal>
+</article>
+
+<article mdate="2020-12-14" key="48">
+<author></author>
+<title></title>
+<year></year>
+<journal></journal>
+</article>
+
+<article mdate="2020-12-14" key="49">
+<author></author>
+<title></title>
+<year></year>
+<journal></journal>
+</article>
+
+<article mdate="2020-12-14" key="50">
+<author></author>
+<title></title>
+<year></year>
+<journal></journal>
+</article>
+
+
+
+
+
+
+
 
 
 
