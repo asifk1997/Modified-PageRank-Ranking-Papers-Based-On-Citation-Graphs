@@ -72,10 +72,14 @@ def myfunc():
 
 
 def iterative_pagerank_time_dependent():
+
     updated_page_rank = {}
     max_score = 0
     # print(paper_inlinks)
+    count=0
     while True:
+        count+=1
+        # print(count)
         flag = True
         for k in all_papers:
 
@@ -149,7 +153,10 @@ def iterative_pagerank_time_independent():
     # print(year_citation_count, year_paper_count)
     updated_page_rank = {}
     max_score = 0
+    count=0
     while True:
+        count+=1
+        print(count)
         flag = True
         for k in all_papers:
             paper = all_papers[k]
@@ -178,7 +185,7 @@ def iterative_pagerank_time_independent():
             all_papers[key][0]['paper-rank'] = updated_page_rank[key]
             max_score = max(max_score, updated_page_rank[key])
         updated_page_rank.clear()
-    # print('max_score', max_score)
+    print('max_score', max_score)
 
     for paper in all_papers:
         if max_score!=0:
@@ -323,8 +330,8 @@ def clear_element(element):
 
 
 iterate_each_node()
-iterative_pagerank_time_dependent()
-# iterative_pagerank_time_independent()
+# iterative_pagerank_time_dependent()
+iterative_pagerank_time_independent()
 ranking_journals()
 ranking_journals_yearly()
 ranking_authors()
